@@ -1,6 +1,6 @@
 
 
-[![jiusheng58](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/jiusheng58)
+[![jiusheng58](https://img.shields.io/badge/jiusheng58-github-blue?logo=github)](https://github.com/jiusheng58)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
